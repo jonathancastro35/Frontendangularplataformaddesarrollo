@@ -1,12 +1,12 @@
 export const environment = {
     production : false,
-    endPointproyecto:"https://localhost:44330/api/Proyectoes",
-    endPointempleado:"https://localhost:44330/api/Empleadoes",
-    endPointempleadoproyecto:"https://localhost:44330/api/Proyectoempleadoes",
-    endPointtarea:"https://localhost:44330/api/Tareas",
-    endPointjefe:"https://localhost:44330/api/Jefes",
-    endPointlogin:"https://localhost:44330/api/Logins",
-    endPointloginjefes:"https://localhost:44330/api/Loginjefes",
-    endPointloginconsultar:"https://localhost:44330/api/Registrotareasenproyectofechas"
+endPointproyecto:"http://18.216.48.206:5125/api/Proyectoes",
+endPointempleado:"http://18.216.48.206:5125/api/Empleadoes",
+endPointempleadoproyecto:"http://18.216.48.206:5125/api/Proyectoempleadoes",
+endPointtarea:"http://18.216.48.206:5125/api/Tareas",
+endPointjefe:"http://18.216.48.206:5125/api/Jefes",
+endPointlogin:"http://18.216.48.206:5125/api/Logins",
+endPointloginjefes:"http://18.216.48.206:5125/api/Loginjefes",
+endPointloginconsultar:"http://18.216.48.206:5125/api/Registrotareasenproyectofechas"
     
 }
